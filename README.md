@@ -1,4 +1,8 @@
 # FINAL-PROJECT---KIDNEY-STONES
+
+## Disclaimer
+Disclaimer: The instructions and code used in the project are based on the provided guidelines from https: www.kaggle.com/code/nimapourmoradi/kidney-stone#
+
 ## Introduction
 Machine learning algorithms are programmed and trained to detect existing relationships and patterns in data. In this final project, we are focusing on kidney stone which is a common medical condition that can cause significant pain and discomfort. In the context of Python script, we will analyze data stored in a CSV file containing information about individuals with kidney stones as well as use Machine Learning for predictive modeling, data visualization and to integrate health records, providing a comprehensive view of a patient's medical history and facilitating research and development (R&D) on kidney stones. <br>
 
