@@ -18,13 +18,6 @@ Machine learning algorithms are programmed and trained to detect existing relati
 5.  Model Deployment and Interpretation
 6.  Continuous Improvement and Updates <br>
 
-## Results and Findings
-![Alt text] (https://drive.google.com/file/d/11Ts0FyTXZxLpcvzZpkeGu2k5JaZZyP_r/view?usp=sharing)
-![Alt text] (https://drive.google.com/file/d/1qcKI6IwNMgCVpvbNJMzVsvm0PB-Cp2CX/view?usp=sharing)
-![Alt text] (https://drive.google.com/file/d/1r-uIeQPfvC8echdk-t1IrqkeRI-G17TH/view?usp=sharing)
-![Alt text] (https://drive.google.com/file/d/1xBeHKqsMpjC8Vs2w5m3E4MBR6keW5Sbs/view?usp=sharing)
-![Alt text] (https://drive.google.com/file/d/1HQ5Wql-umrRffsktbuIrXEHDbVH_sCsl/view?usp=sharing)
-
 ## Insights
 This machine learning program exhibits a well-structured approach for handling a kidney stone dataset. As medical datasets often share common characteristics, the programming can be a versatile template for predicting risks or outcomes in diseases beyond kidney stones. Future modifications could involve incorporating additional healthcare datasets, optimizing feature engineering for specific medical contexts, and exploring diverse machine learning algorithms to enhance predictive capabilities. This adaptability positions the code as a valuable resource for developing predictive models across a spectrum of medical applications on platforms like Kaggle or in research settings. <br>
 
